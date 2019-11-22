@@ -15,4 +15,4 @@ Jeg valgte at gøre følgende:
  5. Der er yderligere tilføjet Unit test til projektet.
  6. Der er yderligere tilføjet docstrings til metoderne, så man har en idé om hvad de gør.
  
-Målet med det jeg har lavet, er at nemt at kunne skabe sig et overblik over hvordan det hele hænger sammen, kode skal gerne være vedligeholdelsesvenligt og let at læse, det har jeg valgt at gøre ved hjælp at en god struktur samt information om hvad der sker i de enkelte klasser.
+Målet med det jeg har lavet, er at det skal være nemt at skabe sig et overblik, kode skal være vedligeholdelsesvenligt og let at læse, det har jeg valgt at gøre ved hjælp at en god struktur, og ved give information om hvad der sker i de enkelte klasser.
