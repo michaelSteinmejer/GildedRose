@@ -16,3 +16,4 @@ Jeg valgte at gøre følgende:
  6. Der er yderligere tilføjet docstrings til metoderne, så man har en idé om hvad de gør.
  
 Målet med det jeg har lavet, er at det skal være nemt at skabe sig et overblik, kode skal være vedligeholdelsesvenligt og let at læse, det har jeg valgt at gøre ved hjælp at en god struktur, og ved give information om hvad der sker i de enkelte klasser.
+Grunden til at jeg valgte at lave unit test, er hvis der i fremtiden skulle tilføjes en ny type item, så kan man nemt teste om det eksisterende stadig virker. 
