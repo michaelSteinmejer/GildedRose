@@ -1,0 +1,17 @@
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\TestingGildedRose.dll
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\TestingGildedRose.pdb
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\GildedRose.exe
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\GildedRose.pdb
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\GildedRose.exe.config
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Source\CSharp\GildedRose\TestingGildedRose\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Source\CSharp\GildedRose\TestingGildedRose\obj\Debug\TestingGildedRose.csprojAssemblyReference.cache
+C:\Source\CSharp\GildedRose\TestingGildedRose\obj\Debug\TestingGildedRose.csproj.CoreCompileInputs.cache
+C:\Source\CSharp\GildedRose\TestingGildedRose\obj\Debug\TestingGildedRose.csproj.CopyComplete
+C:\Source\CSharp\GildedRose\TestingGildedRose\obj\Debug\TestingGildedRose.dll
+C:\Source\CSharp\GildedRose\TestingGildedRose\obj\Debug\TestingGildedRose.pdb
