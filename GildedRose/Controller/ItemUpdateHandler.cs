@@ -22,7 +22,7 @@ namespace GildedRose.Controller
             {
                 Console.WriteLine("|---this is day: " + (i + 1) + "---|");
 
-                foreach (Item item in Items)
+                foreach (var item in Items)
                 {
                     UpdateItemQuality(item);
                     Console.WriteLine(item);
