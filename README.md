@@ -12,7 +12,7 @@ Jeg valgte at gøre følgende:
  2. ItemsUpdateHandler er ansvarlig for at tildele item til den rigtig metode, alt efter switch casens udfald.
  3. De specifikke item klasser, sørger for at håndtere hvordan data skal behandles.
  4. Utils er lavet til at undgå duplicate method, da de samme tjeks går igen.
- 5. Der er yderligere tilføjet Unit test til projektet.
+ 5. Der er yderligere tilføjet Unit test til projektet(Kig eventuelt på Approval test delen, den er meget interessant).
  6. Der er yderligere tilføjet docstrings til metoderne, så man har en idé om hvad de gør.
  7. der er 100 % CodeCoverage på på alle klasser undtagen Item model class. 
  
