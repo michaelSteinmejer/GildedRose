@@ -18,7 +18,7 @@ namespace GildedRose.Controller
         /// <param name="item"></param>
         public static void UpdateItem(Item item)
         {
-            var newQuality = Utils.SellInIsNotPassed(item) ? item.Quality - 2 : item.Quality - 4;
+            int newQuality = Utils.SellInIsNotPassed(item) ? item.Quality - 2 : item.Quality - 4;
 
             if (Utils.IsQualityNegative(newQuality))
             {

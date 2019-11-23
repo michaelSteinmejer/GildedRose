@@ -10,7 +10,7 @@ namespace GildedRose.Utility
     /// <summary>
     /// This class is meant for the common methods, that are used more than once.
     /// </summary>
-    class Utils
+    public static class Utils
     {
         public static bool IsQualityGreaterThanFifty(int newQuality)
         {

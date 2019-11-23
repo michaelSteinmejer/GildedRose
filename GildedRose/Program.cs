@@ -22,7 +22,8 @@ namespace GildedRose
                 SellIn = 15,
                 Quality = 20
             },
-            new Item {Name = "Conjured Mana Cake", SellIn = 3, Quality = 10}
+            new Item {Name = "Conjured Mana Cake", SellIn = 3, Quality = 10},
+            new Item {Name = "Conjured", SellIn = 3, Quality = 10}
         };
         private static void Main(string[] args)
         {

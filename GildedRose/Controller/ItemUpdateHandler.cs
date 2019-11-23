@@ -39,7 +39,8 @@ namespace GildedRose.Controller
         /// <param name="item"></param>
         public static void UpdateItemQuality(Item item)
         {
-            switch (item.Name)
+            string name = ConjuredItems(item.Name);
+            switch (name)
             {
                 case "Aged Brie":
                     ItemAgedBrie.UpdateItem(item);
@@ -50,13 +51,25 @@ namespace GildedRose.Controller
                 case "Sulfuras, Hand of Ragnaros":
                     ItemSulfuras.UpdateItem(item);
                     break;
-                case "Conjured Mana Cake":
+                case "Conjured":
                     ItemConjured.UpdateItem(item);
                     break;
                 default:
                     ItemDefault.UpdateItem(item);
                     break;
             }
+        }
+
+        /// <summary>
+        /// The rules provided says: We have recently signed a supplier of conjured items.
+        /// So in fact, there can be more than one type of Conjured items.
+        /// Which means i need to handle all items, where the name contains Conjured, without altering the items name.
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
+        public static string ConjuredItems(string name)
+        {
+            return name.Contains("Conjured") ? "Conjured" : name;
         }
     }
 }
