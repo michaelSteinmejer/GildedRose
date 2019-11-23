@@ -14,16 +14,7 @@ namespace GildedRose.Model
         public int SellIn { get; set; }
 
         public int Quality { get; set; }
-
-        public Item()
-        {
-        }
-        public Item(string name, int sellIn, int quality)
-        {
-            Name = name;
-            SellIn = sellIn;
-            Quality = quality;
-        }        
+       
         //I Know that it is not allowed, as an requirement for this test,
         //however this is good practice, to add ToString overrides for your model classes.
         //else i would have to do it in the UpdateQuality method.

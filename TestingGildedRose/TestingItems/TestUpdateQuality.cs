@@ -39,7 +39,7 @@ namespace TestingGildedRose.TestingItems
 
         private static string DoUpdateQuality(string name, int sellIn, int quality)
         {
-            var items = new List<Item>{new Item(name, sellIn, quality)};
+            var items = new List<Item>{new Item{Name=name,SellIn=sellIn,Quality=quality} };
              GildedRose.Controller.ItemUpdateHandler.UpdateQuality(1, items);
             return items[0].ToString();
         }
