@@ -6,7 +6,7 @@ Det er ikke nemt at håndtere nye typer, over tid ville det blive  meget uoversk
 
 Jeg valgte at gøre følgende:
 
- 1. først lavede jeg en mappe struktur med følgende navne: Model, Controller & Utility.
+ 1. Jeg lavede en mappe struktur med følgende navne: Model, Controller & Utility.
     1.2 I Model ligger Item, i Controller ligger ItemUpdatehandler, ItemAgedBrie, ItemBackstagePass, ItemConjured, ItemDefault & ItemSulfuras,
     i Utility ligger Utils.
  2. ItemsUpdateHandler er ansvarlig for at tildele item til den rigtig metode, alt efter switch casens udfald.
