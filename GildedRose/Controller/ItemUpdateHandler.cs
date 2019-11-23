@@ -39,7 +39,7 @@ namespace GildedRose.Controller
         /// <param name="item"></param>
         public static void UpdateItemQuality(Item item)
         {
-            string name = ConjuredItems(item.Name);
+            var name = ConjuredItems(item.Name);
             switch (name)
             {
                 case "Aged Brie":
