@@ -13,7 +13,7 @@ namespace TestingGildedRose.TestingItems
     {   /// <summary>
         ///In this test method, i have implemented the dependency ApprovalTest.
         ///It makes it easy, to test many scenarios and get the full CodeCoverage.
-        ///the idea is that VerifyAllCombination passes arguments til the method,
+        ///the idea is that VerifyAllCombination passes arguments to a method,
         ///until all combinations are met. It then generates two text files Received.txt
         ///and approved.txt, you then approve the cases in the Received.txt by
         ///copying it to approved.txt.
