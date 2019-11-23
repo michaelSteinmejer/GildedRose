@@ -8,7 +8,7 @@ using GildedRose.Model;
 
 namespace GildedRose
 {
-    class Program
+    public class Program
     {
         public static List<Item> Items = new List<Item>
         {
