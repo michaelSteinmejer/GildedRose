@@ -18,3 +18,6 @@ Jeg valgte at gøre følgende:
  
 Målet med det jeg har refactoreret, er at koden skal være vedligeholdelsesvenlig og let at læse, det har jeg valgt at gøre med en god struktur, og ved give information om hvad der sker i de enkelte klasser.
 Grunden til at jeg valgte at lave unit test, er hvis der i fremtiden skulle tilføjes en ny type item, ville det være nemt at teste den enkelte klasse.
+
+
+![alt text](https://github.com/michaelSteinmejer/GildedRose/edit/master/error.png)
