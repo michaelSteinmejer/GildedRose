@@ -15,7 +15,9 @@ Jeg valgte at gøre følgende:
  6. Der er yderligere tilføjet seperate unit tests.
  7. Der er yderligere tilføjet docstrings til metoderne, så man har en idé om hvad de gør.
  8. der er 100 % CodeCoverage på på alle klasser. 
- 
+
+Utils kunne også laves som extension methods, det kan dog i dette tilfælde være lidt et overkill.
+
 Målet med det jeg har refactoreret, er at koden skal være vedligeholdelsesvenlig og let at læse, det har jeg valgt at gøre med en god struktur, og ved give information om hvad der sker i de enkelte klasser.
 Grunden til at jeg valgte at lave unit test, er hvis der i fremtiden skulle tilføjes en ny type item, ville det være nemt at teste den enkelte klasse.
 
