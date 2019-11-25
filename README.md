@@ -19,5 +19,6 @@ Jeg valgte at gøre følgende:
 Målet med det jeg har refactoreret, er at koden skal være vedligeholdelsesvenlig og let at læse, det har jeg valgt at gøre med en god struktur, og ved give information om hvad der sker i de enkelte klasser.
 Grunden til at jeg valgte at lave unit test, er hvis der i fremtiden skulle tilføjes en ny type item, ville det være nemt at teste den enkelte klasse.
 
-OBS! Jeg forsøge at klone projektet som forskrevet, grundet nedenstående problemer valgte at lave et helt nyt projekt.
+OBS! Jeg forsøge at klone og builde projektet som forskrevet, men desværre var der build issues med at den ikke kunne registrere pakkerne korrekt, jeg valgte derfor at lave et helt nyt projekt. se eventuelt billedet nedenfor.
+
 ![alt text](https://github.com/michaelSteinmejer/GildedRose/blob/master/error.PNG)
